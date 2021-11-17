@@ -456,12 +456,9 @@ img {
 }
 
 .footer-social-icons {
-    display: block;
-    height: 30px;
-    margin-bottom: 25px;
+    display: inline-block;
+    background-size: contain;
     background-repeat: no-repeat;
-    background-position: center;
-    background-size: auto 100%;
     background-color: transparent;
 }
 
